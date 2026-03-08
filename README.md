@@ -1,0 +1,2 @@
+# Guidex_platform
+GUIDEX_EXCELENCIA OPERATIVA
