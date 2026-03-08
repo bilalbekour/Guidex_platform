@@ -1,0 +1,14 @@
+# Python
+guidex_backend/venv/
+guidex_backend/__pycache__/
+guidex_backend/db.sqlite3
+*.pyc
+
+# Node
+guidex_frontend/node_modules/
+guidex_frontend/dist/
+guidex_frontend/.env
+
+# OS
+.DS_Store
+Thumbs.db
