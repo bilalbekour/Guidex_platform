@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Guidex: Operational Excellence Platform
 
 Guidex is a premium SaaS solution for BPO (Business Process Outsourcing) operational management. It allows companies to design, execute, and monitor decision-tree workflows with precision and high-density corporate decorum.
@@ -89,3 +90,7 @@ Guidex is a premium SaaS solution for BPO (Business Process Outsourcing) operati
 ## 📝 Authors & Maintenance
 Developed by Guidex Operational Excellence Inc.
 © 2026. All rights reserved.
+=======
+# Guidex_platform
+GUIDEX_EXCELENCIA OPERATIVA
+>>>>>>> origin/main
