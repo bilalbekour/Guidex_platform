@@ -67,7 +67,7 @@ function Home() {
       <main className="flex-1 flex flex-col items-center justify-center px-6 relative z-10 text-center pb-40">
         <div className="inline-flex items-center space-x-4 bg-white/[0.03] backdrop-blur-3xl px-8 py-3 rounded-full border border-white/5 mb-16 shadow-2xl animate-in fade-in slide-in-from-top-12 duration-1000">
           <div className="w-2 h-2 rounded-full bg-primary-500 animate-ping"></div>
-          <span className="text-[10px] font-bold uppercase tracking-[0.5em] text-white/40">v2.0 Deploying Operational Decorum</span>
+          <span className="text-[10px] font-bold uppercase tracking-[0.5em] text-white/40">v2.0</span>
         </div>
 
         <h1 className="text-7xl md:text-[8rem] font-bold tracking-tighter leading-[0.8] max-w-7xl mb-16 animate-in fade-in slide-in-from-bottom-12 duration-1000">
